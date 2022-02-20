@@ -1,0 +1,13 @@
+#btn{
+    height:3rem;
+    width: 5rem;
+    border: 2px solid #f3fcf3;
+    background-color: rgb(255, 96, 123);
+    border-radius: 16px;
+    color: white;
+}
+
+#btn:hover{
+    background-color: #ff94a6;
+    color: white;
+}
